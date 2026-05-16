@@ -351,14 +351,10 @@ Always conduct your own research and consult qualified professionals before maki
 
 ## Support
 
-For issues, questions, or suggestions:
-1. Check this README for troubleshooting
-2. Review code comments and docstrings
-3. Open an issue on the repository
+If you find this project useful, consider supporting it:
 
----
-
-**Version**: 1.0.0  
-**Last Updated**: October 2025  
-**Python**: 3.8+  
-**License**: MIT
+| Currency | Address |
+|----------|---------|
+| **Bitcoin (BTC)** | `3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54` |
+| **Ethereum (ETH)** | `0x5851e6145F4773d1585b8686095FB16E368a4dA1` |
+| **ZCash (ZEC)** | `t1KSR5YkNPbjqRSCoLKo5AddFWdm9Kzxh1B` |
